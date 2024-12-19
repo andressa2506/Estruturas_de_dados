@@ -1,2 +1,2 @@
 # Estruturas_de_dados
-Curso estruturas de dados - DIO(Digital Inovation One)
+Curso estrutura de dados - DIO(Digital Inovation One)
